@@ -54,7 +54,7 @@ Este projeto faz parte do meu processo de aprendizado, que também está documen
 Desenvolvido por **Thayrony Von Held** 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThayronyVonHeld)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thayrony-von-held-b14ba7256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayrony-von-held-b14ba7256/)
 
 ---
 
