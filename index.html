@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aprendendo HTML</title>
+    <title>Documentação HTML</title>
     <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-
+    <link rel="stylesheet" href="/assets/css/style.css">
     <style>
         mark {
             background-color: yellow;
@@ -71,19 +71,15 @@
         
          <p>Podemos alterar a cor do marca-texto usando CSS:</p>
 
-         <pre><code>
-&lt;style&gt;
+         <pre><code>&lt;style&gt;
 mark {
     background-color: green;
 }
-&lt;/style&gt;
-    </code></pre>
+&lt;/style&gt; </code></pre> 
 
-    <p>Ou diretamente na tag <mark style="background-color: lime;">(inline)</mark>:</p>
-
-    <pre><code>
-&lt;mark style="background-color: lime;"&gt;Seu texto&lt;/mark&gt;
-    </code></pre> 
+<p>Ou diretamente na tag <mark style="background-color: lime;">(inline)</mark>:</p>
+    
+<pre><code> &lt;mark style="background-color: lime;"&gt;Seu texto&lt;/mark&gt; </code></pre> 
     
     <p>&lt;small&gt;&lt;/small&gt; → <small>Texto pequeno</small></p>
 
@@ -105,16 +101,14 @@ mark {
 
      <p>Para exibir blocos de código formatados, usamos: &lt;pre&gt;&lt;/pre&gt;</p>
     
-         <pre><code>
-printf("Digite um número:");
+         <pre><code>printf("Digite um número:");
 scanf("%d", &n1);
 
 if (n1 % 2 == 0) {
     printf("O número é par");
 } else {
     printf("O número é ímpar");
-}
-    </code></pre>
+}</code></pre>
 
    <p>&lt;q&gt;&lt;/q&gt; → Citações curtas:</p>
    
@@ -183,9 +177,8 @@ if (n1 % 2 == 0) {
     <p>Para adicionar um favicon (favicon é o icone na aba da guia do navegador)</p>
     
     <p>No head de seu index digite:</p>
-<pre><code>
-&lt;link rel="shortcut icon" href="caminho-do-icone" type="image/x-icon"&gt;
-</code></pre>
+
+<pre><code>&lt;link rel="shortcut icon" href="caminho-do-icone" type="image/x-icon"&gt;</code></pre>
 
     <hr>
 
