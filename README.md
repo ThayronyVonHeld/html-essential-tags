@@ -10,7 +10,7 @@ Este projeto é um guia visual e prático produzido durante meus estudos de HTML
 ---
 
 ## 🌐 Acesse o projeto
-🔗 https://seuusuario.github.io/html-essential-tags/
+🔗 https://thayronyvonheld.github.io/html-essential-tags/
 
 ---
 ## 🎯 Objetivo
