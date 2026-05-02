@@ -1,8 +1,7 @@
 # 📚 Documentação HTML - Meus Estudos
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thayrony-von-held-b14ba7256/)
 
 > **Este projeto é uma documentação prática dos meus estudos em HTML**
 
@@ -28,8 +27,8 @@ A ideia é:
 
 ## 🚀 Tecnologias utilizadas
 
-- HTML5
-- CSS3 (mínimo, apenas para organização visual)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -55,7 +54,7 @@ Este projeto faz parte do meu processo de aprendizado, que também está documen
 Desenvolvido por **Thayrony Von Held** 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThayronyVonHeld)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thayronyvonheld)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thayrony-von-held-b14ba7256/)
 
 ---
 
